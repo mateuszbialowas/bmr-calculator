@@ -1,3 +1,17 @@
 .App {
   text-align: center;
 }
+
+.BMRCalculator {
+  max-width: 100ch;
+  margin: auto;
+}
+
+.BMRCalculator span {
+  margin: 20px 0;
+}
+
+
+form{
+  margin: 20px 0;
+}
